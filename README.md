@@ -1,2 +1,5 @@
 # Hola-mundo
-mi primer repositorio
+
+Mi primer repositorio en GitHub
+
+i love 🍕:, 🐶:
